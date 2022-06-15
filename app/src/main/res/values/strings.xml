@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RealmDB</string>
+    <string name="cat_photo_text">cat photo</string>
+    <string name="favourites_button_text">favourites button</string>
+    <string name="dislike_text">Dislike</string>
+    <string name="like_text">Like</string>
+</resources>
